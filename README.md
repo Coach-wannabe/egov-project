@@ -17,11 +17,12 @@ Our eGov project aims to revolutionize the way government services are accessed 
 | Amantai Aitolkyn , 21B030773 | backend, frontend, kafka, alembic, docker |
 | Amangeldi Amina , 21B031086 | backend, frontend, kafka, alembic,  kafka library|
 | Naryshov Ernar, 20B030306 | backend, telegram bot, email, makefile, CI/CD |
+| Bolatbekov Adilet, 20B030875 | backend, frontend, email, makefile, docker |
 
 ## INSTALL/RUN
 #### _1 step_:
 ```sh
-git clone https://gitlab.com/di-halyk-academy-adv-python-tima/egov-project.git
+git clone https://github.com/Coach-wannabe/egov-project.git
 ```
 #### _2 step_:
 ```sh
