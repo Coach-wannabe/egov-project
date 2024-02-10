@@ -50,9 +50,6 @@ We welcome contributions to improve this project. To contribute:
 5. **Push:** Push your changes to your forked repository.
 6. **Pull Request:** Open a pull request, clearly outlining your changes and purpose.
 
-### Code of Conduct
-Please adhere to our project's [Code of Conduct](link/to/code_of_conduct.md) to maintain a respectful and inclusive community.
-
 ## Interesting Features
 
 ### _Telegram Integration_
